@@ -6,19 +6,19 @@
  "scripts": {
   "build": "run-s build:site build:slides",
   "build:site": "vuepress build site -d build",
-  "build:slides": "reveal-md slides/ --static build/slides --static-dirs slides/assets",
+  "build:slides": "reveal-md --preprocessor preproc slides/ --static build/slides --static-dirs slides/assets",
   "site": "vuepress dev site",
-  "slides": "reveal-md slides/ -w",
+  "slides": "reveal-md --preprocessor preproc slides/  -w",
   "site:prod": "http-server build"
  },
  "author": "",
  "license": "ISC",
  "dependencies": {
-  "jsdom": "^16.4.0",
-  "npm": "^7.5.4",
+  "http-server": "^14.1.1",
+  "jsdom": "^24.0.0",
   "npm-run-all": "^4.1.5",
   "reveal-md": "^5.0.0",
   "reveal.js-menu": "^2.1.0",
-  "vuepress": "^1.8.0"
+  "vuepress": "^1.9.10"
  }
 }

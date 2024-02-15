@@ -24,7 +24,7 @@ module.exports = (markdown, options) => {
       function objReplace(match, svg_path, obj_body){
         //console.log("Replacing something " + svg_path + " " + obj_body);
         let svgRaw = fs.readFileSync(path.join(slideDir,svg_path), 'utf8')
-        let svgStr = svgRaw.subarray(svgRaw.search(svgx))
+        let svgStr = svgRaw.slice(svgRaw.search(svgx))
         let svgDom = new jsdom.JSDOM(svgStr)
         let svgDoc = svgDom.window.document
         let svgElem = svgDom.window.document.body.children[0]
