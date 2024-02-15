@@ -1,10 +1,11 @@
 module.exports = {
   base: "/dl-demystified-course/",
-  title: 'Introduction to Deep Learning Course',
+  title: 'Deep Learning Demystified: Foundations for Non-Computer Scientist',
   themeConfig: {
+      logo: 'img/UoS_Violet_RSE.png',
       sidebar: [
       {
-        title: 'Introduction to Deep Learning Course',
+        title: 'Deep Learning Demystified: Foundations for Non-Computer Scientist',
         path: "/",
       }
 

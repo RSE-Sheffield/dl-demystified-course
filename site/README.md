@@ -1,25 +1,21 @@
-# Introduction to Deep Learning Course
+# Deep Learning Demystified: Foundations for Non-Computer Scientist
 
 ## Course Description 
 
-In this one-day introductory workshop, you’ll learn the basics of deep learning by training and deploying neural networks.
+"Deep Learning Demystified: Foundations for Non-Computer Scientists" is an accessible and comprehensive course designed to introduce individuals from diverse backgrounds to the fundamental concepts of deep learning. Through clear explanations and real-world examples, participants will gain a solid understanding of key components of deep learning. By the end of the course, students will be equipped with the knowledge and confidence to engage with and apply deep learning techniques in various fields, regardless of their technical background.
 
 
-## Learning Outcomes
-
-By the end of this course, participants will be able to:
-
-* Implement common deep learning workflows using Tensorflow Keras framework.
-* Experiment with data, training parameters, network structure, and other strategies to increase performance and capability.
-* Deploy your neural networks to start solving real-world problems.
+## Objectives
+- Utilise the Tensorflow Keras framework to execute standard deep learning workflows.
+- Explore diverse data, training parameters, network architectures, and other methodologies to enhance performance and functionality.
+- Transition your trained neural networks into deployment to tackle practical challenges effectively.
 
 ## Pre-requisites
-
-* Basic knowledge of the Python programming language.
+- Basic knowledge of the Python programming language.
 
 ## Schedule
 
-
+<!--
 * **09:00-10:05** | 01: Introduction to Deep Learning
 * **10:05-10:15** | Break
 * **10:20-12:00** | 02: Neural Networks
@@ -31,8 +27,8 @@ By the end of this course, participants will be able to:
 * **15:30-17:00**
   * 05: Deployment & Transfer Learning
   * 06: DL in other fields & Wrapup
+-->
 
-<!--
 * **Day one**
   * **13:00-14:10** | 01: Introduction to Deep Learning
   * **14:10-14:25** | Break
@@ -46,7 +42,7 @@ By the end of this course, participants will be able to:
   * **15:30-16:00** | 06: DL in other fields
   * **16:00-16:15** | Break
   * **16:15-17:00** | 07: Final Exercise & Wrap-up
--->
+
 
 ## Overview
 
@@ -54,7 +50,7 @@ By the end of this course, participants will be able to:
 
 <table>
   <td>
-    <a target="_blank" href="https://colab.research.google.com/github/rses-dl-course/rses-dl-course.github.io/blob/master/notebooks/python/L00_introduction_to_notebook.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/32px-Python-logo-notext.svg.png" />Python Colab notebook</a>
+    <a target="_blank" href="https://colab.research.google.com/github/rse-sheffield/dl-demystified-course/blob/master/notebooks/python/L00_introduction_to_notebook.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/32px-Python-logo-notext.svg.png" />Python Colab notebook</a>
   </td>
 </table>
 
@@ -70,11 +66,13 @@ By the end of this course, participants will be able to:
 
 <table>
   <td>
-    <a target="_blank" href="https://colab.research.google.com/github/rses-dl-course/rses-dl-course.github.io/blob/master/notebooks/python/L01_introduction_to_tf_keras.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/32px-Python-logo-notext.svg.png" />Python Colab notebook</a>
+    <a target="_blank" href="https://colab.research.google.com/github/rse-sheffield/dl-demystified-course/blob/master/notebooks/python/L01_introduction_to_tf_keras.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/32px-Python-logo-notext.svg.png" />Python Colab notebook</a>
   </td>
+<!--
   <td>
-    <a target="_blank" href="https://colab.research.google.com/github/rses-dl-course/rses-dl-course.github.io/blob/master/notebooks/R/R01_introduction_to_tf_keras.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/32px-R_logo.svg.png" />R Colab notebook</a>
+    <a target="_blank" href="https://colab.research.google.com/github/rse-sheffield/dl-demystified-course/blob/master/notebooks/R/R01_introduction_to_tf_keras.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/32px-R_logo.svg.png" />R Colab notebook</a>
   </td>
+-->
 
 </table>
 
@@ -86,11 +84,13 @@ By the end of this course, participants will be able to:
 
 <table>
   <td>
-    <a target="_blank" href="https://colab.research.google.com/github/rses-dl-course/rses-dl-course.github.io/blob/master/notebooks/python/L02_classifying_images_of_clothing.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/32px-Python-logo-notext.svg.png" />Python Colab notebook</a>
+    <a target="_blank" href="https://colab.research.google.com/github/rse-sheffield/dl-demystified-course/blob/master/notebooks/python/L02_classifying_images_of_clothing.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/32px-Python-logo-notext.svg.png" />Python Colab notebook</a>
   </td>
+<!--
   <td>
-    <a target="_blank" href="https://colab.research.google.com/github/rses-dl-course/rses-dl-course.github.io/blob/master/notebooks/R/R02_classifying_images_of_clothing.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/32px-R_logo.svg.png" />R Colab notebook</a>
+    <a target="_blank" href="https://colab.research.google.com/github/rse-sheffield/dl-demystified-course/blob/master/notebooks/R/R02_classifying_images_of_clothing.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/32px-R_logo.svg.png" />R Colab notebook</a>
   </td>
+-->
  
 </table>
 
@@ -102,11 +102,13 @@ By the end of this course, participants will be able to:
 
 <table>
   <td>
-    <a target="_blank" href="https://colab.research.google.com/github/rses-dl-course/rses-dl-course.github.io/blob/master/notebooks/python/L03_image_classification_with_cnn.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/32px-Python-logo-notext.svg.png" />Python Colab notebook</a>
+    <a target="_blank" href="https://colab.research.google.com/github/rse-sheffield/dl-demystified-course/blob/master/notebooks/python/L03_image_classification_with_cnn.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/32px-Python-logo-notext.svg.png" />Python Colab notebook</a>
   </td>
+<!--
   <td>
-    <a target="_blank" href="https://colab.research.google.com/github/rses-dl-course/rses-dl-course.github.io/blob/master/notebooks/R/R03_image_classification_with_cnns.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/32px-R_logo.svg.png" />R Colab notebook</a>
+    <a target="_blank" href="https://colab.research.google.com/github/rse-sheffield/dl-demystified-course/blob/master/notebooks/R/R03_image_classification_with_cnns.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/32px-R_logo.svg.png" />R Colab notebook</a>
   </td>
+-->
   
 </table>
 
@@ -120,11 +122,13 @@ By the end of this course, participants will be able to:
 
 <table>
   <td>
-    <a target="_blank" href="https://colab.research.google.com/github/rses-dl-course/rses-dl-course.github.io/blob/master/notebooks/python/L04_C01_dogs_vs_cats_without_augmentation.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/32px-Python-logo-notext.svg.png" />Python Colab notebook</a>
+    <a target="_blank" href="https://colab.research.google.com/github/rse-sheffield/dl-demystified-course/blob/master/notebooks/python/L04_C01_dogs_vs_cats_without_augmentation.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/32px-Python-logo-notext.svg.png" />Python Colab notebook</a>
   </td>
+<!--
   <td>
-    <a target="_blank" href="https://colab.research.google.com/github/rses-dl-course/rses-dl-course.github.io/blob/master/notebooks/R/R04_C01_dogs_vs_cats_without_augmentation.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/32px-R_logo.svg.png" />R Colab notebook</a>
+    <a target="_blank" href="https://colab.research.google.com/github/rse-sheffield/dl-demystified-course/blob/master/notebooks/R/R04_C01_dogs_vs_cats_without_augmentation.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/32px-R_logo.svg.png" />R Colab notebook</a>
   </td>
+-->
  
 </table>
 
@@ -132,11 +136,13 @@ By the end of this course, participants will be able to:
 
 <table>
   <td>
-    <a target="_blank" href="https://colab.research.google.com/github/rses-dl-course/rses-dl-course.github.io/blob/master/notebooks/python/L04_C02_dogs_vs_cats_with_augmentation.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/32px-Python-logo-notext.svg.png" />Python Colab notebook</a>
+    <a target="_blank" href="https://colab.research.google.com/github/rse-sheffield/dl-demystified-course/blob/master/notebooks/python/L04_C02_dogs_vs_cats_with_augmentation.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/32px-Python-logo-notext.svg.png" />Python Colab notebook</a>
   </td>
+<!--
   <td>
-    <a target="_blank" href="https://colab.research.google.com/github/rses-dl-course/rses-dl-course.github.io/blob/master/notebooks/R/R04_C01_dogs_vs_cats_with_augmentation.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/32px-R_logo.svg.png" />R Colab notebook</a>
+    <a target="_blank" href="https://colab.research.google.com/github/rse-sheffield/dl-demystified-course/blob/master/notebooks/R/R04_C01_dogs_vs_cats_with_augmentation.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/32px-R_logo.svg.png" />R Colab notebook</a>
   </td>
+-->
  
 </table>
 
@@ -149,11 +155,13 @@ By the end of this course, participants will be able to:
 
 <table>
   <td>
-    <a target="_blank" href="https://colab.research.google.com/github/rses-dl-course/rses-dl-course.github.io/blob/master/notebooks/python/L05_saving_and_loading_models.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/32px-Python-logo-notext.svg.png" />Python Colab notebook</a>
+    <a target="_blank" href="https://colab.research.google.com/github/rse-sheffield/dl-demystified-course/blob/master/notebooks/python/L05_saving_and_loading_models.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/32px-Python-logo-notext.svg.png" />Python Colab notebook</a>
   </td>
+<!--
   <td>
-    <a target="_blank" href="https://colab.research.google.com/github/rses-dl-course/rses-dl-course.github.io/blob/master/notebooks/R/R05_saving_and_loading_models.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/32px-R_logo.svg.png" />R Colab notebook</a>
+    <a target="_blank" href="https://colab.research.google.com/github/rse-sheffield/dl-demystified-course/blob/master/notebooks/R/R05_saving_and_loading_models.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/32px-R_logo.svg.png" />R Colab notebook</a>
   </td>
+-->
  
 </table>
 
@@ -161,12 +169,13 @@ By the end of this course, participants will be able to:
 
 <table>
   <td>
-    <a target="_blank" href="https://colab.research.google.com/github/rses-dl-course/rses-dl-course.github.io/blob/master/notebooks/python/L06_tensorflow_hub_and_transfer_learning.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/32px-Python-logo-notext.svg.png" />Python Colab notebook</a>
+    <a target="_blank" href="https://colab.research.google.com/github/rse-sheffield/dl-demystified-course/blob/master/notebooks/python/L06_tensorflow_hub_and_transfer_learning.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/32px-Python-logo-notext.svg.png" />Python Colab notebook</a>
   </td>
+<!--
   <td>
-    <a target="_blank" href="https://colab.research.google.com/github/rses-dl-course/rses-dl-course.github.io/blob/master/notebooks/R/R06_tensorflow_hub_and_transfer_learning.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/32px-R_logo.svg.png" />R Colab notebook</a>
+    <a target="_blank" href="https://colab.research.google.com/github/rse-sheffield/dl-demystified-course/blob/master/notebooks/R/R06_tensorflow_hub_and_transfer_learning.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/32px-R_logo.svg.png" />R Colab notebook</a>
   </td>
-
+-->
 </table>
 
 
@@ -179,7 +188,7 @@ By the end of this course, participants will be able to:
 
 <table>
   <td>
-    <a target="_blank" href="https://colab.research.google.com/github/rses-dl-course/rses-dl-course.github.io/blob/master/notebooks/python/L07_flowers_dataset_with_augmentation.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/32px-Python-logo-notext.svg.png" />Python Colab notebook</a>
+    <a target="_blank" href="https://colab.research.google.com/github/rse-sheffield/dl-demystified-course/blob/master/notebooks/python/L07_flowers_dataset_with_augmentation.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/32px-Python-logo-notext.svg.png" />Python Colab notebook</a>
   </td>
 </table>
 
@@ -187,7 +196,7 @@ By the end of this course, participants will be able to:
 
 <table>
   <td>
-    <a target="_blank" href="https://colab.research.google.com/github/rses-dl-course/rses-dl-course.github.io/blob/master/notebooks/python/XL01_text_classification_rnn.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/32px-Python-logo-notext.svg.png" />Python Colab notebook</a>
+    <a target="_blank" href="https://colab.research.google.com/github/rse-sheffield/dl-demystified-course/blob/master/notebooks/python/XL01_text_classification_rnn.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/32px-Python-logo-notext.svg.png" />Python Colab notebook</a>
   </td>
 </table>
 
@@ -195,7 +204,7 @@ By the end of this course, participants will be able to:
 
 <table>
   <td>
-    <a target="_blank" href="https://colab.research.google.com/github/rses-dl-course/rses-dl-course.github.io/blob/master/notebooks/python/XL02_dcgan.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/32px-Python-logo-notext.svg.png" />Python Colab notebook</a>
+    <a target="_blank" href="https://colab.research.google.com/github/rse-sheffield/dl-demystified-course/blob/master/notebooks/python/XL02_dcgan.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/32px-Python-logo-notext.svg.png" />Python Colab notebook</a>
   </td>
 </table>
 
