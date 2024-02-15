@@ -50,7 +50,7 @@ By the end of this course, participants will be able to:
 
 ## Overview
 
-* <a href="/slides/00_overview.html" target="_blank">Slides</a>
+* <a href="slides/00_overview.html" target="_blank">Slides</a>
 
 <table>
   <td>
@@ -63,7 +63,7 @@ By the end of this course, participants will be able to:
 
 ## 01: Introduction to Deep Learning
 
-* <a href="/slides/01_introduction_to_deep_learning.html" target="_blank">Slides</a>
+* <a href="slides/01_introduction_to_deep_learning.html" target="_blank">Slides</a>
 
 
 ## Lab 01: Introduction to Tensorflow Keras
@@ -80,7 +80,7 @@ By the end of this course, participants will be able to:
 
 ## 02: Neural networks
 
-* <a href="/slides/02_neural_networks.html" target="_blank">Slides</a>
+* <a href="slides/02_neural_networks.html" target="_blank">Slides</a>
 
 ## Lab 02: Classifying images of clothing
 
@@ -96,7 +96,7 @@ By the end of this course, participants will be able to:
 
 ## 03: Classification and Convolutional Neural Networks
 
-* <a href="/slides/03_convolution_neural_networks.html" target="_blank">Slides</a>
+* <a href="slides/03_convolution_neural_networks.html" target="_blank">Slides</a>
 
 ## Lab 03: Image classification with CNNs
 
@@ -112,7 +112,7 @@ By the end of this course, participants will be able to:
 
 ## 04: Refining the model
 
-* <a href="/slides/04_refining_the_model.html" target="_blank">Slides</a>
+* <a href="slides/04_refining_the_model.html" target="_blank">Slides</a>
 
 ## Lab 04: Dogs & Cats with data augmentation
 
@@ -142,7 +142,7 @@ By the end of this course, participants will be able to:
 
 ## 05: Deployment & Transfer Learning
 
-* <a href="/slides/05_transfer_learning.html" target="_blank">Slides</a>
+* <a href="slides/05_transfer_learning.html" target="_blank">Slides</a>
 
 ## Lab 05: Saving and Loading models
 
@@ -173,7 +173,7 @@ By the end of this course, participants will be able to:
 
 ## 06: DL in other fields
 
-* <a href="/slides/06_dl_in_other_fields.html" target="_blank">Slides</a>
+* <a href="slides/06_dl_in_other_fields.html" target="_blank">Slides</a>
 
 ## Lab 07: Final exercise, flowers with data augmentation
 
