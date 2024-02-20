@@ -32,6 +32,7 @@ All course materials can be found at:
 
 
 ---
+<!-- .slide: data-visibility="hidden" -->
 ### Course Schedule
 
 * **09:00-10:05** | 01: Introduction to Deep Learning
@@ -47,7 +48,6 @@ All course materials can be found at:
   * 06: DL in other fields & Wrapup
 
 ---
-<!-- .slide: data-visibility="hidden" -->
 ### Course Schedule
 
 * **Day one**
@@ -58,7 +58,6 @@ All course materials can be found at:
   * **15:50-17:00** | 03: Classification and Convolutional Neural Networks
   
 ---
-<!-- .slide: data-visibility="hidden" -->
 ### Course Schedule
 
 * **Day two**
@@ -71,8 +70,16 @@ All course materials can be found at:
   
 ---
 
-### Blackboard collaborate
+### Have questions? Stuck on an exercise?
 
+- Let us know if we're moving too fast or slow 
+- Happy to answer questions as we go 
+
+
+---
+
+### Blackboard collaborate
+<!-- .slide: data-visibility="hidden" -->
 Let us know how you're getting on with the course. 
 
 <object type="image/svg+xml" data="assets/img/bbcolab.svg" style="background: white; width: 70%; height: auto;">
