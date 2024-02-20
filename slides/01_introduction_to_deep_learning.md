@@ -36,16 +36,6 @@ The Chinese board game is considered to be a much more complex challenge for a c
 
 ---
 
-### Impersonating celebrities
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cQ54GDm1eL0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Note:
-Deepfakes are synthetic media[2] in which a person in an existing image or video is replaced with someone else's likeness.
-
-Obviously dangerous but there is also ongoing research into using deep learning to detect deep fakes.
----
-
 ### Mars mission
 
 <span class="medium-note">Terrain classification, navigation, autonomous rover, etc.</span>
@@ -58,6 +48,31 @@ Note:
 Terramechanics plays a critical role in the areas of ground vehicles and ground mobile robots since understanding and estimating the variables influencing the vehicle-terrain interaction may mean the success or the failure of an entire mission.
 
 This research applies state-of-the-art algorithms in deep learning to two key problems: estimating wheel slip and classifying the terrain being traversed by a ground robot
+---
+
+### Text Generation
+
+<div>
+<img src="assets/img/chatgpt-investigator-award.png" style="width:50%"/>
+</div>
+<span class="small-note">ChatGPT 3.5 - OpenAI</span>
+
+---
+
+### Image and Video Generation
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HK6y8DAPN_0?si=BR3NSJVezn_GwRR7" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div><span class="small-note">Sora - OpenAI</span></div>
+---
+
+### Impersonating celebrities
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cQ54GDm1eL0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Note:
+Deepfakes are synthetic media[2] in which a person in an existing image or video is replaced with someone else's likeness.
+
+Obviously dangerous but there is also ongoing research into using deep learning to detect deep fakes.
 ---
 
 ### What else?
