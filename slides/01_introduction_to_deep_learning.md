@@ -375,7 +375,7 @@ There's likely a framework for a language that you know e.g.:
 * Matlab - Deep Learning Toolbox
 
 Or import from python
-* 'keras' package for R - Used for R version of the course
+* 'keras' package for R
 
 ---
 

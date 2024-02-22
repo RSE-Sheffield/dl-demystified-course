@@ -2,7 +2,9 @@
 title: "0. Overview"
 ---
 
-# RSES: Introduction to Deep Learning Course
+# Deep Learning Demystified
+## Foundations for Non-Computer Scientist
+
 
 Twin Karmakharm
 
@@ -19,16 +21,15 @@ Twin Karmakharm
     * Grant support
 * Software optimisation, GPU and HPC
 * Training, outreach and education activities
-* Led by Dr. Paul Richmond
+* Led by Dr. Romain Thomas
 * Visit us at [https://rse.shef.ac.uk](https://rse.shef.ac.uk)
-* [Apply for up to 12 days of RSE time on AI/HPC related project](https://rse.shef.ac.uk/collaboration/tier2)
 ---
 
 ### Course Materials
 
-All course materials can be found at:
+Course materials can be found at:
 
-[https://rses-dl-course.github.io/](https://rses-dl-course.github.io/)
+[https://rse.shef.ac.uk/dl-demystified-course](https://rse.shef.ac.uk/dl-demystified-course)
 
 
 ---
@@ -141,7 +142,7 @@ A platform to run lab code interactively
 `Ctrl+Space` to get code suggestion
 
 ---
-
+<!-- .slide: data-visibility="hidden" -->
 
 ### Practical Labs Using Jupyter Notebooks
 A platform to run lab code interactively

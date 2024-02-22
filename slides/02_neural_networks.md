@@ -189,7 +189,7 @@ Note:
 
 ### Error and Loss
 
-We need a way good way to quantify how far our prediction is from our goal.
+We need a good way to quantify how far our prediction is from our goal.
 
 <object type="image/svg+xml" data="assets/img/neuralnetwork-initialisation.svg" style="background: white; width: 80%; margin-top: 1em">
 </object>
@@ -415,7 +415,7 @@ Too small learning rate ($\eta$) means our network takes longer to converge.
 
 How do we know the 'optimal' learning rate?
 
-We won't know until actually training the network! <!-- .element: class="fragment" -->
+We won't know until we train the network! <!-- .element: class="fragment" -->
 
 Start with the default values provided. <!-- .element: class="fragment" -->
 
@@ -460,7 +460,7 @@ The algorithm for computing the gradients efficiently and adjusting the weights 
 1. Calculate loss - compare prediction with target
 1. Back propagation - find gradients for each weight and bias
 1. Repeat for all samples
-1. Average gradients of weights and bias then update <!-- .element: class="fragment" -->
+1. Average the delta of weights and bias then update <!-- .element: class="fragment" -->
 1. Start again from 1 <!-- .element: class="fragment" -->
 
 ---
