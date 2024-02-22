@@ -192,6 +192,11 @@
   </td>
 </table>
 
+## Feedback
+
+Please use the following form to provide feedback: 
+[https://forms.gle/UYgxhZyUwNopWRGf9](https://forms.gle/UYgxhZyUwNopWRGf9)
+
 ## Extra Lab 01: Text classification with RNN
 
 <table>
