@@ -4,7 +4,7 @@ The contents are hosted by github pages at [https://rse.shef.ac.uk/dl-demystifie
 
 ## This course is built using 
 
-* Node & npm - Package management
+* Node & npm - Package management (Must use Node 16LTS due to vuepress dependency)
 * vuepress - Website 
 * reveal-md - Slides
 * google colab - Notebooks (python code)

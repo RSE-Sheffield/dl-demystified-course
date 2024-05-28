@@ -1,0 +1,8 @@
+# change to tag :latest, port 5000, and uncomment extra hosts for prod
+version: "2.3"
+
+services:
+  dljupyter:
+    build: .
+    ports:
+      - "80:8888"
