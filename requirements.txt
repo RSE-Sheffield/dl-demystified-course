@@ -1,1 +1,7 @@
 jupyter
+numpy
+matplotlib
+tensorflow
+tensorflow_hub
+tensorflow_datasets
+
