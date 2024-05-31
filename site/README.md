@@ -5,6 +5,7 @@
 "Deep Learning Demystified: Foundations for Non-Computer Scientists" is an accessible and comprehensive course designed to introduce individuals from diverse backgrounds to the fundamental concepts of deep learning. Through clear explanations and real-world examples, participants will gain a solid understanding of key components of deep learning. By the end of the course, students will be equipped with the knowledge and confidence to engage with and apply deep learning techniques in various fields, regardless of their technical background.
 
 
+
 ## Objectives
 - Utilise the Tensorflow Keras framework to execute standard deep learning workflows.
 - Explore diverse data, training parameters, network architectures, and other methodologies to enhance performance and functionality.
@@ -43,6 +44,9 @@
   * **16:00-16:15** | Break
   * **16:15-17:00** | 07: Final Exercise & Wrap-up
 
+
+## Host Listings
+<HostListing/>
 
 ## Overview
 
