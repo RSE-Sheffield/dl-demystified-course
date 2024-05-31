@@ -15,4 +15,3 @@ notebooks/cifar-10-batches-py/
 *.tar.gz
 *E.0.0*
 .DS_Store
-site/.vuepress/components/aws_ec2_hosts.json
