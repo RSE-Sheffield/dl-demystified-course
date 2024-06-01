@@ -1,8 +1,13 @@
-# change to tag :latest, port 5000, and uncomment extra hosts for prod
-version: "2.3"
-
 services:
   dljupyter:
     build: .
+    restart: always
     ports:
       - "80:8888"
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [ gpu ]

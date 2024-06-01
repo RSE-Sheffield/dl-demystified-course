@@ -1,21 +1,19 @@
-FROM python:3.8-slim-bookworm as build
-
-WORKDIR /home/dlcourse
+FROM tensorflow/tensorflow:2.16.1-gpu
 
 RUN apt update && apt-get install -y wget \
     gcc  \
     bzip2
 
-RUN pip install jupyter
+WORKDIR /course_setup
+COPY requirements.txt .
+RUN pip install -r requirements.txt
 
-RUN adduser --disabled-password dlcourse
+WORKDIR /root/.jupyter
+COPY jupyter_lab_config.py .
 
+WORKDIR /dlcourse
 COPY notebooks/python .
-
-RUN chown -R dlcourse:dlcourse ./
 
 EXPOSE 8888
 
-USER dlcourse
-
-ENTRYPOINT ["jupyter", "lab", "--ip=0.0.0.0", "--no-browser", "--ServerApp.token='f9a3bd4e9f2c3be01cd629154cfb224c2703181e050254b5'", "/home/dlcourse"]
+ENTRYPOINT jupyter lab --no-browser  /dlcourse
